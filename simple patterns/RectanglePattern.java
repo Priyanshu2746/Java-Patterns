@@ -1,4 +1,4 @@
-public class java_patterns {
+public class RectanglePattern {
     public static void main(String args[]){
         /* Square
         int n=3;
