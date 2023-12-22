@@ -1,4 +1,4 @@
-public class java_patterns {
+public class HollowReactangle {
     public static void main(String args[]){
         int n=5;
         int m=5;
