@@ -15,5 +15,5 @@ This repository contains Java code examples for various patterns. The patterns a
    - [Butterfly Pattern](#butterfly-pattern)
    - [Rhombus Pattern](#rhombus-pattern)
    - [Pyramid Pattern](#pyramid-pattern)
-   - [Palindrome Pattern](#palindrome-pattern)
+   - [Palindrome Pattern](#palindrome-patterns)
    - [Diamond Pattern](#diamond-patterns)
