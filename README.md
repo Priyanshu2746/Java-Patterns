@@ -16,4 +16,4 @@ This repository contains Java code examples for various patterns. The patterns a
    - [Rhombus Pattern](#rhombus-pattern)
    - [Pyramid Pattern](#pyramid-pattern)
    - [Palindrome Pattern](#palindrome-pattern)
-   - [Diamond Pattern](#diamond-pattern)
+   - [Diamond Pattern](#diamond-patterns)
